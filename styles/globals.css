@@ -1,0 +1,34 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background: #0e1116;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.icon {
+  margin-left: 0.4em;
+  height: 1.2em;
+  flex: 1;
+}
+
+.github {
+  height: 2rem;
+  color: white;
+}
+
+*:focus {
+  outline: none;
+}
+
+

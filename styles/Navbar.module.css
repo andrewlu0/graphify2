@@ -1,0 +1,64 @@
+.Navbar {
+  padding: 0.6em;
+  border-bottom: 1px solid #999999;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.graphify {
+  margin: none;
+  margin-left: .5rem;
+  font-size: 25px;
+  font-weight: bold;
+  cursor: pointer;
+  width: 4em;
+}
+
+.graphify:hover {
+  text-decoration: underline;
+}
+
+.profile {
+  margin-left: auto;
+  order: 2;
+  display: flex;
+  align-items: center;
+  margin-right: 0.7em;
+  border: 0px solid #999999;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.profile:hover {
+  text-decoration: underline;
+  background-color: #20262f;
+}
+
+.profilePic {
+  height: 2em;
+  padding: .1em;
+  border-radius: 50%;
+  margin-right: 0.7em;
+}
+
+.logout {
+  position: absolute;
+  top:4em;
+  right: 1.3em;
+  padding: .8em;
+  border: 1px solid #999999;
+  border-radius: 10px;
+  cursor: pointer;
+  background: #0e1116;
+}
+
+.logout:hover {
+  text-decoration: underline;
+  background-color: #20262f;
+}
+
+.angle {
+  margin-left: 0.7em;
+}

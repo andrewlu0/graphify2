@@ -1,0 +1,19 @@
+.graph {
+  padding: 3rem 3em;
+  color: white;
+}
+
+.container {
+  height: 100%;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-top: 3em;
+}
+
+.loader {
+  margin-top: 25%;
+}
