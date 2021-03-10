@@ -31,7 +31,7 @@ export default function Home() {
         </button>
       </main>
       <div className={styles.footer}>
-        <a href="https://github.com/andrewlu0/graphify">
+        <a href="https://github.com/andrewlu0/graphify2">
           <FontAwesomeIcon className={styles.github} icon={faGithub} />
         </a>
       </div>
